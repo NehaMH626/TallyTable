@@ -1,0 +1,41 @@
+.container {
+  margin: 10vh 5vw;
+  height: 80vh;
+}
+.selected-container {
+  margin-top: 3vh;
+  border-top: 1px solid;
+}
+.tableData {
+  border: 1px solid;
+  text-align: center;
+  background-color: rgb(216, 216, 216);
+  width: 7vw;
+  padding: 1vh 1vw 1vh 1vw;
+}
+.selectedVal-p {
+  border: 1px solid;
+  text-align: center;
+  /* padding: 5px 5px; */
+  width: 25%;
+  margin: auto;
+  background-color: rgb(216, 216, 216);
+}
+.block-footer {
+  position: absolute;
+  bottom: 5vh;
+}
+.span-bold {
+  font-weight: bold;
+}
+.table-container {
+  /* height: 70vh;
+  overflow-x: scroll; */
+}
+.display-container {
+  position: relative;
+  height: 80vh;
+}
+.customizeBtn {
+  margin: 2vh 1vw;
+}
